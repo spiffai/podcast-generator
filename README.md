@@ -1,2 +1,2 @@
 # podcast-generator
-Generates podcast feeds.
+Generates podcast feeds based upon their YAML files.
